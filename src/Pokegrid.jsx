@@ -2,7 +2,7 @@ import poke from './assets/pokeapi_256.png'
 import eevee from './assets/eevee.jpg'
 import './Home.css'
 
-const Home = () => {
+const Pokegrid = () => {
     
 
     return (
@@ -24,4 +24,4 @@ const Home = () => {
 }
 
 
-export default Home
+export default Pokegrid.jsx
